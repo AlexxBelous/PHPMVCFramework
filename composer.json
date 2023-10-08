@@ -1,0 +1,15 @@
+{
+  "name": "alex/phpmvc-framework",
+  "authors": [
+    {
+      "name": "AlexxBelous",
+      "email": "connectionwithme1@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {}
+}
